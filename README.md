@@ -1,7 +1,7 @@
 <# 我的吃喝玩乐日常 - Web 前端课程考核项目
 
 ### GitHub 访问地址  
-https://你的用户名.github.io/my-daily-life/  
+https://Dengjinlong7.github.io/ 
 
 
 ### 项目介绍  
